@@ -1,0 +1,12 @@
+- Pros
+	- IPv6 based
+	- Built-in security
+	- Scalability
+	- Interoperability
+- Cons
+	- Higher minimum requirements due to IPv6 minimum complexity
+	- Not as popular as ZigBee
+- Applications
+	- Wireless sensor networks (WSN)
+	- Internet of Things
+	- Industrial Internet of Things

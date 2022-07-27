@@ -1,0 +1,15 @@
+- Pros
+	- Low power requirements
+	- Resilient against interference
+- Cons
+	- Low bandwidth
+	  id:: 62dd5c5d-c645-4d7a-b71c-fe06d576591c
+	- Limited range
+	- Limited number of participants in network
+- Applications
+	- Beacons
+	- Fitness trackers, smart watches
+	- Medical applications
+	- Smart homes
+	- Smart cars
+	- Earbuds, headsets etc.

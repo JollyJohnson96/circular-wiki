@@ -1,0 +1,7 @@
+title:: Edge/Fog Computing
+
+- Cloud computing refers to the on-demand delivery of IT services/resources over the internet. On-demand computing service over the internet is nothing but cloud computing. By using cloud computing users can access the services from anywhere whenever they need.
+  
+  Nowadays, a massive amount of data is generated every second around the globe. Businesses collect and process that data from the people and get analytics to scale their business. When lots of organizations access their data simultaneously on the remote servers in data centers, data traffic might occur. Data traffic can cause some delay in accessing the data, lower bandwidth, etc. But cloud computing technology alone is not effective enough to store and process massive amounts of data and respond quickly.  
+  
+  For example, in the Tesla self-driving car, the sensor constantly monitors certain regions around the car. If it detects an obstacle or pedestrian on its way, then the car must be stopped or move around without hitting. When an obstacle is on its way, the data sent through the sensor must be processed quickly and help the car to detect before it hits. A little delay in detection could be a major issue. To overcome such challenges, edge computing and fog computing are introduced.

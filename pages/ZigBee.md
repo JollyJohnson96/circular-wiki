@@ -1,0 +1,11 @@
+- Pros
+	- Low power requirements
+	- Scales to large network sizes (~6500 nodes)
+- Cons
+	- Low range
+	- Low bandwidth
+	- Security issues (fixed, known fallback keys in at least one profile)
+- Applications
+	- Wireless sensor networks (WSN)
+	- Industrial automation
+	- Smart homes

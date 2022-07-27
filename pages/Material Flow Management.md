@@ -1,0 +1,2 @@
+- „Material flow management is the goal-oriented, efficient use of materials, material streams and energy. The goals are given by ecological and economical areas and by observing social aspects.”
+-

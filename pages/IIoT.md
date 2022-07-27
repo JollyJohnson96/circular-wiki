@@ -1,0 +1,4 @@
+- The industrial internet of things (IIoT) refers to interconnected sensors, instruments, and other devices networked together with computers' industrial applications, including manufacturing and energy management. This connectivity allows for data collection, exchange, and analysis, potentially facilitating improvements in productivity and efficiency as well as other economic benefits.
+- Use cases
+	- Automotive Industrie
+		- 3D printers simplify the way of shaping pressing tools by printing the shape directly from steel granulate.[41] These tools enable new possibilities for designing (with high precision). Customization of vehicles is also enabled by IIoT due to the modularity and connectivity of this technology.
